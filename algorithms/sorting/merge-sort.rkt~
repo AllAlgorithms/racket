@@ -1,0 +1,5 @@
+#lang racket
+
+; 'a list -> 'a list
+; sorts a list using a merge sort algorithm
+(define merge-sort )
